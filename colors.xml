@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#FF0000</color>
+    <color name="salmon">#FA8072</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="black">#000000</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="WHITE">#FFFFFF</color>
+</resources>
